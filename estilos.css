@@ -8,7 +8,7 @@ body {
     background-color: rgb(90, 79, 65) ;
 }
 header{
-    background-image: url(./imagenes/head.jpg);
+    background-image: url(/imagenes/head.jpg);
     text-align: center;
     color: black;
     width: 100%;
@@ -19,7 +19,6 @@ header{
 	overflow: hidden;
     border-radius: 0 0 85% 85% / 30%;
     margin: 0 auto;
-   
 }
 #reseña {
     display: flex;
